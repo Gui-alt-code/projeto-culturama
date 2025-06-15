@@ -36,4 +36,4 @@ O projeto pode ser hospedado em plataformas como:
 
 📌 GitHub Pages: Ideal para projetos que não necessitam de backend.
 
-➜ Link do projeto no GitHub Pages: 
+➜ Link do projeto no GitHub Pages: https://gui-alt-code.github.io/projeto-culturama/
