@@ -24,6 +24,8 @@ Culturama é um projeto que visa apresentar um layout moderno e responsivo, util
 
 ⚙️ Navegação intuitiva entre as seções do projeto.
 
+⚙️ Estilo visual moderno e atraente, com foco na experiência do usuário.
+
 # Implantar: 🛠
 
 O projeto pode ser hospedado em plataformas como:
@@ -35,5 +37,3 @@ O projeto pode ser hospedado em plataformas como:
 📌 GitHub Pages: Ideal para projetos que não necessitam de backend.
 
 ➜ Link do projeto no GitHub Pages: 
-
-⚙️ Estilo visual moderno e atraente, com foco na experiência do usuário.
